@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spa_food_shop_practice/static/css/main.010ab3ed.css",
+    "main.js": "/spa_food_shop_practice/static/js/main.bfa75de9.js",
+    "index.html": "/spa_food_shop_practice/index.html",
+    "main.010ab3ed.css.map": "/spa_food_shop_practice/static/css/main.010ab3ed.css.map",
+    "main.bfa75de9.js.map": "/spa_food_shop_practice/static/js/main.bfa75de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010ab3ed.css",
+    "static/js/main.bfa75de9.js"
+  ]
+}
